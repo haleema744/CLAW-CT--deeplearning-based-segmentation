@@ -9,3 +9,7 @@ For each CT image, a corresponding annotated dataset is provided using the same 
 The annotation files are named c1_1, c2_2, c3_3, and so on through c14_14. Therefore, each CT image has a directly corresponding annotation; 
 for example, c1 is associated with c1_1, c2 with c2_2, and c14 with c14_14. The complete dataset is stored in the main folder named CLAW_data. 
 This consistent naming convention allows the CT images and their annotated labels to be easily matched and used for image analysis, segmentation, object detection, and other computer vision applications.
+
+he proposed SLIC-based annotated dataset are available
+through the University of Edinburgh DataShare repository:
+https://doi.org/10.7488/ds/815
