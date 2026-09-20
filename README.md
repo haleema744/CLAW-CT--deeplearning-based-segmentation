@@ -1,4 +1,4 @@
-# CLAW-CT--deeplearning-based-segmentation
+# CLAW-CT-Deeplearning-based-segmentation
 CLAW_data Dataset
 The folder named ''CLAW_data'' dataset contains CT images and their corresponding annotated label data for a total of 14 claws. 
 The dataset is organized in a simple naming convention to make it easy to identify the CT image and its corresponding annotation. 
